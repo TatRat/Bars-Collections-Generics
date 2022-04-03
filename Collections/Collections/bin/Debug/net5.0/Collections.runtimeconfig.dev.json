@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Womp Rat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Womp Rat\\.nuget\\packages"
+    ]
+  }
+}
